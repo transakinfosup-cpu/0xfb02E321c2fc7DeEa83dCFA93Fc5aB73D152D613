@@ -1,0 +1,10 @@
+{
+  "name": "USD Central Union",
+  "symbol": "USDC.u",
+  "decimals": 18,
+  "description": "USDC.u is a BEP-20 token on Binance Smart Chain designed for fast, secure, and low-cost transactions within a growing DeFi ecosystem.",
+  "website": "https://bscscan.com",
+  "explorer": "https://bscscan.com/token/0xfb02E321c2fc7DeEa83dCFA93Fc5aB73D152D613",
+  "status": "active",
+  "id": "0xfb02E321c2fc7DeEa83dCFA93Fc5aB73D152D613",
+  }
